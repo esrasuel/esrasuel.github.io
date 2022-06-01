@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Esra Suel"
   avatar           : "profile.png"
-  bio              : "Lecturer in City Modelling, CASA & Senior Assistant, ETH Zurich"
+  bio              : "Lecturer in City Modelling, CASA UCL & Senior Assistant, ETH Zurich"
   location         : "Zurich & London"
-  employer         : "UCL & ETH Zurich"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Hdxa9L8AAAAJ&hl=en"
   email            : "e.suel@ucl.ac.uk"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/esrasuel/"
+  linkedin         : "esrasuel"
   orcid            : "https://orcid.org/0000-0001-9246-3966"
   pinterest        :
   soundcloud       :
