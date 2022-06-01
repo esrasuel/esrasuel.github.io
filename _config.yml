@@ -82,14 +82,13 @@ analytics:
 author:
   name             : "Esra Suel"
   avatar           : "profile.png"
-  bio              : "Lecturer in City Modelling, CASA UCL \\ Senior Assistant, ETH Zurich"
-  location         : "London"
-  location         : "Zurich"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Lecturer in City Modelling, CASA UCL & Senior Assistant, ETH Zurich"
+  location         : "Zurich & London"
+  employer         : "University College London & ETH Zurich"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=Hdxa9L8AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "esrasuel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9246-3966"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "esrasuel"
   vine             :
   weibo            :
   xing             :
