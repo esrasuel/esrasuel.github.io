@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) in City Modelling at [the Bartlett Centre for Advanced Spatial Analysis](https://www.ucl.ac.uk/bartlett/casa), [University College London](https://www.ucl.ac.uk/) and a Senior Assistant at [the Chair of Geoinformation Engineering](https://gis.ethz.ch/en/), [ETH Zurich](https://ethz.ch/en.html).
-
-Research Area
-------
+Hello! 
 
 
-Short Bio
-------
+**Short Bio**
+
 I recieved my PhD degree in Urban Systems and Transport Planning from [Imperial College London](https://www.imperial.ac.uk/urban-systems-lab/) in 2016. I also hold a BSc. degree in Mechatronics Engineering from [Sabanci University](https://me.sabanciuniv.edu/) and an MSE degree in Mechanical Engineering from [University of Michigan](https://me.engin.umich.edu/). 
 
 After my PhD, I joined the [Global Environmental Health Research Group](www.globalenvhealth.org) as postdoc working for the Wellcome Trust funded [Pathways to Equitable Healthy Cities](https://equitablehealthycities.org/) project. In 2018, I was awarded an early-career Rutherford fellowship by MRC based at the [MRC Center for Environment and Health](https://environment-health.ac.uk/). As part of my training, I was a Visiting Scholar at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/). I also worked as a Senior Data Scientist (part-time) at the [Swiss Data Science Center at ETH Zurich](https://datascience.ch/) between 2018 and 2021. 
