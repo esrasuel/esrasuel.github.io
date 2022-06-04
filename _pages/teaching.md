@@ -1,13 +1,13 @@
 ---
+layout: archive
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
 redirect_from: 
-  - "/teaching/"
-  - "/teaching.html"
+  - /teaching
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+{% include base_path %}
 
 Autumn 2022
 ======
