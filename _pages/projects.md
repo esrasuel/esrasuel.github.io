@@ -12,7 +12,7 @@ redirect_from:
 Funded projects
 ------
 
-Here is a full list of funded projects where I am/was the principle investigator (PI) or Co-PI since the award of my PhD in 2016.
+Here is a full list of funded projects where I am/was the principle investigator (PI) or Co-PI.
 
 * **Swiss Data Science Center, Switzerland**,  (co-PI, 2022- ), *DeepInAfrica: Deep statistical
 learning based image analysis for measurement of socioeconomic development in Sub-Saharan Africa*,
