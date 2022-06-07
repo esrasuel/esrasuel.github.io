@@ -13,7 +13,7 @@ I am a Lecturer (Assistant Professor) in City Modelling at [The Bartlett Centre 
 Research
 ---------
 
-My research focuses on development of computational methods for analysing of urban environments and human behavior in cities. It is motivated by questions in urban mobility, land-use, housing, and health. The goals are:
+My research focuses on development of computational methods for analysing built environments and human behavior in cities. It is motivated by questions in urban mobility, land-use, housing, social and health inequalities. The goals are:
 
 * making quantitative measurements at high spatio-temporal resolution using emerging sources of digital data,
 * estimating the influence of spatial factors on individual behaviour and outcomes, and
