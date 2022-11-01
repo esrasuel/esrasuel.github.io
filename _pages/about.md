@@ -29,6 +29,6 @@ I received my PhD degree in Urban Systems and Transport Planning from [Imperial 
 
 After my PhD, I joined the [Global Environmental Health Research Group](www.globalenvhealth.org) as postdoc working for the Wellcome Trust funded [Pathways to Equitable Healthy Cities](https://equitablehealthycities.org/) project. In 2018, I was awarded an MRC Rutherford Fellowship based at the [MRC Center for Environment and Health](https://environment-health.ac.uk/). As part of my training, I was a Visiting Scholar at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/). I also worked as a Senior Data Scientist (part-time) at the [Swiss Data Science Center at ETH Zurich](https://datascience.ch/), and as Senior Assistant at the [Chair of Geoinformation Engineering at ETH Zurich](https://gis.ethz.ch/en/) between between 2018 and 2022.
 
-In June 2022, I joined [UCL CASA](https://www.ucl.ac.uk/bartlett/casa/) as Lecturer in City Modelling.
+In June 2022, I joined [UCL CASA](https://www.ucl.ac.uk/bartlett/casa/) as Lecturer in City Modelling. We're setting up the CASA Arup City Modelling Lab
 
 
