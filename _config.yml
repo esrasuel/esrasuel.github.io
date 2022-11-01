@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Esra Suel"
 title_separator          : "-"
 name                     : &name "Esra Suel"
-description              : &description "Lecturer of City Modelling at CASA UCL, Senior Assistant at ETH Zurich"
+description              : &description "Lecturer of City Modelling at CASA UCL"
 url                      : https://esrasuel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "esrasuel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Esra Suel"
   avatar           : "profile.png"
-  bio              : "Lecturer in City Modelling, CASA UCL & Senior Assistant, ETH Zurich"
+  bio              : "Lecturer in City Modelling, CASA UCL"
   location         : "Zurich & London"
   employer         : 
   pubmed           : 
