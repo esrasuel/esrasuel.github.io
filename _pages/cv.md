@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV from [here](https://esrasuel.github.io/files/EsraSuel_CV_01September2022.pdf).
+You can download my CV from [here](https://esrasuel.github.io/files/EsraSuel_CV.pdf).
